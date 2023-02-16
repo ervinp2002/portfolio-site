@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import React, { ReactElement } from "react";
 import { motion } from "framer-motion";
 interface Props {}
@@ -58,20 +57,3 @@ function Projects({}: Props): ReactElement {
 }
 
 export default Projects;
-=======
-import React, { ReactElement } from 'react'
-
-interface Props {
-    
-}
-
-function Projects({}: Props): ReactElement {
-    return (
-        <div>
-            Projects
-        </div>
-    )
-}
-
-export default Projects
->>>>>>> 8467b6d874fe9f14da027d17c00acef642b7c469
